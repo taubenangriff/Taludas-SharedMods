@@ -100,6 +100,16 @@ You will also need to put custom triggers for Unhide/Unlock for the Import Docks
 ```
 This way you make sure, that IF a product is also produced by an existing production chain, it does not suffer from the lower storage amount of the Foreign Trading Company's Warehouse, but uses the standard warehouse stock to unload.
 
+### FTCs across regions 
+
+| Region | Main Building | Storage |  Construction Menu | AssetPool | Storage List | 
+| Moderate | 1999005385 | 1999005384 | 1999005648 | 1999005649 | 1999005354
+| Colony01 | 1500040200 | 1500040201 | 1500040202 | 1500040203 | 1500040212
+| Arctic | 1500040204 | 1500040205 | 1500040206 | 1500040207 | 1500040213
+| Africa | 1500040208 | 1500040209 | 1500040210 | 1500040211 | 1500040214
+| Horai | 1441330 | 1441364 | 0 | 0 | 1441365 | 
+
+
 ## UI mods
 In this repo you will also find a collection of available submods to alter and in general streamline certain UIs of the vanilla game to be used in more than the specific vanilla usecase. Available submods in this repo:
 

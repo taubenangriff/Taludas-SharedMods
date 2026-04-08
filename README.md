@@ -103,6 +103,7 @@ This way you make sure, that IF a product is also produced by an existing produc
 ### FTCs across regions 
 
 | Region | Main Building | Storage |  Construction Menu | AssetPool | Storage List | 
+| - | - | - | - | - | - |
 | Moderate | 1999005385 | 1999005384 | 1999005648 | 1999005649 | 1999005354
 | Colony01 | 1500040200 | 1500040201 | 1500040202 | 1500040203 | 1500040212
 | Arctic | 1500040204 | 1500040205 | 1500040206 | 1500040207 | 1500040213

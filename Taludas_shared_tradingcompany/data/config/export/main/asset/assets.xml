@@ -31,6 +31,57 @@
           </ProductStorageList>
         </Values>
       </Asset>
+      <Asset>
+        <Template>ProductStorageList</Template>
+        <Values>
+          <Standard>
+            <GUID>1500040212</GUID>
+            <Name>TradeLicenses_StorageList NW</Name>
+            <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_quest.png</IconFilename>
+          </Standard>
+          <ProductStorageList>
+            <ProductList>
+              <Item>
+                <Product>1999005351</Product>
+              </Item>
+            </ProductList>
+          </ProductStorageList>
+        </Values>
+      </Asset>
+      <Asset>
+        <Template>ProductStorageList</Template>
+        <Values>
+          <Standard>
+            <GUID>1500040213</GUID>
+            <Name>TradeLicenses_StorageList AF</Name>
+            <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_quest.png</IconFilename>
+          </Standard>
+          <ProductStorageList>
+            <ProductList>
+              <Item>
+                <Product>1999005351</Product>
+              </Item>
+            </ProductList>
+          </ProductStorageList>
+        </Values>
+      </Asset>
+      <Asset>
+        <Template>ProductStorageList</Template>
+        <Values>
+          <Standard>
+            <GUID>1500040214</GUID>
+            <Name>TradeLicenses_StorageList AR</Name>
+            <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_quest.png</IconFilename>
+          </Standard>
+          <ProductStorageList>
+            <ProductList>
+              <Item>
+                <Product>1999005351</Product>
+              </Item>
+            </ProductList>
+          </ProductStorageList>
+        </Values>
+      </Asset>
     </ModOp>
   </Group>
 
@@ -296,7 +347,9 @@
           <UpgradeList/>
           <AmbientMoodProvider />
           <Maintenance />
-          <StorageBase />
+          <StorageBase>
+            <ProductStorageList>1500040212</ProductStorageList>
+          </StorageBase>
           <LoadingPier />
           <MinimapToken />
           <Attackable />
@@ -376,7 +429,9 @@
           <UpgradeList/>
           <AmbientMoodProvider />
           <Maintenance />
-          <StorageBase />
+          <StorageBase>
+            <ProductStorageList>1500040213</ProductStorageList>
+          </StorageBase>
           <LoadingPier />
           <MinimapToken />
           <Attackable />
@@ -456,7 +511,9 @@
           <UpgradeList/>
           <AmbientMoodProvider />
           <Maintenance />
-          <StorageBase />
+          <StorageBase>
+            <ProductStorageList>1500040214</ProductStorageList>
+          </StorageBase>
           <LoadingPier />
           <MinimapToken />
           <Attackable />
@@ -721,7 +778,7 @@
           <Attackable />
           <Warehouse />
           <StorageBase>
-            <ProductStorageList>1999005354</ProductStorageList>
+            <ProductStorageList>1500040212</ProductStorageList>
           </StorageBase>
           <Locked />
           <Maintenance />
@@ -797,7 +854,7 @@
           <Attackable />
           <Warehouse />
           <StorageBase>
-            <ProductStorageList>1999005354</ProductStorageList>
+            <ProductStorageList>1500040213</ProductStorageList>
           </StorageBase>
           <Locked />
           <Maintenance />
@@ -872,7 +929,7 @@
           <Attackable />
           <Warehouse />
           <StorageBase>
-            <ProductStorageList>1999005354</ProductStorageList>
+            <ProductStorageList>1500040214</ProductStorageList>
           </StorageBase>
           <Locked />
           <Maintenance />

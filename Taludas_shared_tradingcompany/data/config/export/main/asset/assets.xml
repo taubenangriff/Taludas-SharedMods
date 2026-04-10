@@ -747,7 +747,9 @@
           <AmbientMoodProvider />
           <Constructable />
           <Selection />
-          <Text />
+          <Text>
+            <TextOverride>1999005384</TextOverride>
+          </Text>
           <Cost>
             <Costs>
               <Item>
@@ -823,7 +825,9 @@
           <AmbientMoodProvider />
           <Constructable />
           <Selection />
-          <Text />
+          <Text>
+            <TextOverride>1999005384</TextOverride>
+          </Text>
           <Cost>
             <Costs>
               <Item>
@@ -881,7 +885,9 @@
             <GroundDecalAsset>114826</GroundDecalAsset>
             <GroundDecalInvisible>113478</GroundDecalInvisible>
           </Blocking>
-          <Mesh />
+          <Text>
+            <TextOverride>1999005384</TextOverride>
+          </Text>
           <Object>
             <Variations>
               <Item>
